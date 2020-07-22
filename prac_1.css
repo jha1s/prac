@@ -7,8 +7,8 @@
   height: 100px;
   background-color: coral;
   border-radius: 10px;
-  position: relative;
-  top: 505px;
+  position: absolute;
+  top: 405px;
   left: 605px;
 
 }
